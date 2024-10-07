@@ -1,4 +1,5 @@
 Predictive Maintenance with LSTM in PyTorch
+
 This project demonstrates a predictive maintenance model using Long Short-Term Memory (LSTM) networks built in PyTorch. The goal of this project is to predict the Remaining Useful Life (RUL) of turbofan engines based on historical sensor data. This can be particularly useful for industries where predictive maintenance is critical, such as aerospace, automotive, and manufacturing.
 
 Dataset
